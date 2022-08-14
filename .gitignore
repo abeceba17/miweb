@@ -1,3 +1,2 @@
 #/*RUTAS A IGNORAR Y QUE NO VAYAN A MI REPOSITORIO*/
 .env
-node_modules/
